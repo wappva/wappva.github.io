@@ -1,0 +1,61 @@
+p {
+  opacity: 0.95;
+}
+
+a {
+	color: #4a4a4a;
+}
+
+a:hover {
+  color: hsl(204, 86%, 53%);
+}
+
+ul#horizontal li {
+  display:inline;
+  margin-right: 10px;
+}
+
+.project-tags {
+	font-size: 70%;
+}
+
+.article-item {
+	margin-top: 26px;
+	margin-bottom: 10px;
+}
+
+.underlined {
+	text-decoration: underline;
+}
+
+.hero {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.download {
+  margin-top: 20px;
+  max-width: 140px;
+}
+
+.video-thumbnail {
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+.highlight-color {
+  color: rgb(49,168,246) !important;
+}
+
+.card {
+  border-radius: 5px;
+}
+
+.card-inset {
+  background: rgba(242, 242, 247, 0.16);
+}
+
+.hero-body {
+  max-width: 1400px;
+  margin: 0 auto;
+}
